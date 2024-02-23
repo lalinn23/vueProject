@@ -1,0 +1,90 @@
+{
+  "clientes": [
+    {
+      "id": "3936",
+      "Nombre": "Eduardo ",
+      "Apellido": "Sanchez",
+      "Email": "eduardo.rosas@datasystems.com.mx",
+      "Telefono": "765-114-6274",
+      "Empresa": "datasystems",
+      "Puesto": "Practicante",
+      "estado": 0
+    },
+    {
+      "id": "e6d5",
+      "Nombre": "Daniel",
+      "Apellido": "villarreal",
+      "Email": "villarreal@datasystems.com.mx",
+      "Telefono": "765-114-6274",
+      "Empresa": "datasystems",
+      "Puesto": "FRONTEND",
+      "estado": 1
+    },
+    {
+      "id": "7402",
+      "Nombre": "Daniel",
+      "Apellido": "villarreal",
+      "Email": "villarreal@datasystems.com.mx",
+      "Telefono": "765-114-6274",
+      "Empresa": "datasystems",
+      "Puesto": "Desarrollador",
+      "estado": 1
+    }
+  ],
+  "actividades": [
+    {
+      "id": "767a",
+      "nombreLider": "Daniel Velasco",
+      "nombreConsultor": "lalo",
+      "fecha": "2024-02-21",
+      "proyecto": "IO4585",
+      "actividad": "creacion de sp principal",
+      "fases": "Analisis",
+      "etapa": "DESARROLLO DE CODIGO NUEVO o MEJORA",
+      "descripcion": "Realizando la primera prueba del sistema front",
+      "sugar_float": 2,
+      "Nombre": "",
+      "Apellido": "",
+      "Email": "",
+      "Telefono": "",
+      "Empresa": "",
+      "Puesto": ""
+    },
+    {
+      "id": "ba57",
+      "nombreLider": "Daniel Velasco",
+      "nombreConsultor": "lalin",
+      "fecha": "2024-02-22",
+      "proyecto": "IO58779",
+      "actividad": "modificacion del sp",
+      "fases": "Desarrollo",
+      "etapa": "DESARROLLO DE CODIGO NUEVO o MEJORA",
+      "descripcion": "Se realiza modificacion en el ap sw actividades ",
+      "sugar_float": 3,
+      "Nombre": "",
+      "Apellido": "",
+      "Email": "",
+      "Telefono": "",
+      "Empresa": "",
+      "Puesto": ""
+    },
+    {
+      "id": "0dfb",
+      "nombreLider": "Daniel Velasco",
+      "nombreConsultor": "carlos",
+      "fecha": "2024-02-21",
+      "proyecto": "IO58779",
+      "actividad": "dettalle en BD",
+      "fases": "QA",
+      "etapa": "DESARROLLO DE CODIGO NUEVO o MEJORA",
+      "descripcion": "JBFSUFAFHOAWHFOWHOFHOWFHEOFEOWE",
+      "sugar_float": 2,
+      "Nombre": "",
+      "Apellido": "",
+      "Email": "",
+      "Telefono": "",
+      "Empresa": "",
+      "Puesto": ""
+    }
+  ]
+}
