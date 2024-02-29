@@ -11,6 +11,7 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 import './assets/main.css'
 import 'bootstrap/dist/js/bootstrap'
 
+
 const app = createApp(App)
 app.use(router)
 app.use(plugin, defaultConfig(config))

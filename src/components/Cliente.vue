@@ -35,16 +35,7 @@
             <p class="text-gray-900 font-bold">{{ cliente.Empresa }}</p>
             <p class="text-gray-600">{{cliente.Puesto}}</p>
         </td>
-<!--         <td class="whitespace-nowrap px-3 py-4 text-sm">
-            <button
-                class="inline-flex rounded-full px-2 text-xs font-semibold leading-5"
-                :class="[estadoCliente ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800']"
-            >
-                {{ estadoCliente ? 'Activo' : 'Inactivo' }}
-        </button>
 
-            
-        </td> -->
         <td class="whitespace-nowrap px-3 py-4 text-sm text-gray-500 ">
             <!-- boton para editar -->
             <RouterLink 

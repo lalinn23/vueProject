@@ -51,40 +51,65 @@
       "Puesto": ""
     },
     {
-      "id": "ba57",
+      "id": "20e0",
       "nombreLider": "Daniel Velasco",
-      "nombreConsultor": "lalin",
-      "fecha": "2024-02-22",
+      "nombreConsultor": "lalo",
+      "fecha": "2024-02-29",
       "proyecto": "IO58779",
-      "actividad": "modificacion del sp",
+      "actividad": "Pruebas de integracion",
       "fases": "Desarrollo",
       "etapa": "DESARROLLO DE CODIGO NUEVO o MEJORA",
-      "descripcion": "Se realiza modificacion en el ap sw actividades ",
-      "sugar_float": 3,
-      "Nombre": "",
-      "Apellido": "",
-      "Email": "",
-      "Telefono": "",
-      "Empresa": "",
-      "Puesto": ""
+      "descripcion": "Desarrollando la integración de las pantallas con vuej s",
+      "sugar_float": 5
+    }
+  ],
+  "externos": [
+    {
+      "id": "b2a3",
+      "nombre": "cuestum",
+      "date": "2024-02-28"
+    }
+  ],
+  "proyectos": [
+    {
+      "id": "beae",
+      "nombreP": "IO20010IO",
+      "date": "2024-02-28",
+      "nombreC": "terniumm"
     },
     {
-      "id": "0dfb",
-      "nombreLider": "Daniel Velasco",
-      "nombreConsultor": "carlos",
-      "fecha": "2024-02-21",
-      "proyecto": "IO58779",
-      "actividad": "dettalle en BD",
-      "fases": "QA",
-      "etapa": "DESARROLLO DE CODIGO NUEVO o MEJORA",
-      "descripcion": "JBFSUFAFHOAWHFOWHOFHOWFHEOFEOWE",
-      "sugar_float": 2,
-      "Nombre": "",
-      "Apellido": "",
-      "Email": "",
-      "Telefono": "",
-      "Empresa": "",
-      "Puesto": ""
+      "id": "7f63",
+      "nombreP": "IO19910IO",
+      "date": "2024-02-28",
+      "nombreC": "AFIRME"
+    },
+    {
+      "id": "eff7",
+      "nombreP": "IO19810IO",
+      "date": "2024-02-29",
+      "nombreC": "AFIRME"
+    }
+  ],
+  "etapas": [
+    {
+      "id": "c009",
+      "nombre": "QA",
+      "date": "2024-02-28"
+    },
+    {
+      "id": "648c",
+      "nombre": "Analisis",
+      "date": "2024-02-28"
+    }
+  ],
+  "fases": [
+    {
+      "id": "642c",
+      "nombre": "Analisis"
+    },
+    {
+      "id": "2726",
+      "nombre": "Pruebas Tenicas"
     }
   ]
 }
